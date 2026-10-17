@@ -1,0 +1,5 @@
+sensor_id,location,pm25_raw,timestamp,pm25_adjusted,status_udara
+S001,Bengkulu_Kota,45.2,2026-10-17 08:00:00,44.739999999999995,Sedang
+S002,Kepahiang,22.1,2026-10-17 08:00:00,22.795,Sehat
+S003,Rejang_Lebong,82.5,2026-10-17 08:00:00,80.175,Berbahaya
+S004,Bengkulu_Utara,30.0,2026-10-17 08:00:00,30.3,Sehat

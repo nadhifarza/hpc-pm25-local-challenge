@@ -1,0 +1,5 @@
+﻿sensor_id,location,pm25_raw,timestamp
+S001,Bengkulu_Kota,45.2,2026-10-17 08:00:00
+S002,Kepahiang,22.1,2026-10-17 08:00:00
+S003,Rejang_Lebong,82.5,2026-10-17 08:00:00
+S004,Bengkulu_Utara,30.0,2026-10-17 08:00:00
