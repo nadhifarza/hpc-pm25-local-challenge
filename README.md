@@ -1,4 +1,4 @@
-STUDI KASUS PRAKTIKUM HPC: Analisis Prediksi Polusi Udara (PM2.5) Berbasis Data IoT Menggunakan Skrip Batch HPC
+STUDI KASUS : Analisis Prediksi Polusi Udara (PM2.5) Berbasis Data IoT Menggunakan Skrip Batch HPC
 
 1. Latar Belakang Masalah
 
